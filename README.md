@@ -20,3 +20,4 @@ Bios Config | Setting
 SATA Operation | AHCI
 4G Decord | Disable
 Resize Bar | Disable
+Security Boot | Disable
